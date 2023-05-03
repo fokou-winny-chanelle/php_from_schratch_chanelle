@@ -18,6 +18,6 @@
     {
         "Mon" => print 'Monday',
         "Fri" => print 'Friday' ,
-        default => 'others',
+        default => 'others',mmm
     }
 ?>
