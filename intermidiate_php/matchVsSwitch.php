@@ -1,5 +1,5 @@
 <?php 
-    // switch case
+    //  switch case
     $weekday = "Fri";
     switch($weekday) 
     {
@@ -13,7 +13,7 @@
             echo 'Others' ;
     }
     echo "<br><br>";
-    // match
+    //  match
     match($weekday)
     {
         "Mon" => print 'Monday',
